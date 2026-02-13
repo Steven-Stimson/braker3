@@ -1,0 +1,33 @@
+name: braker3_fixed
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - python=3.10
+  - libdeflate=1.19
+  - perl=5.32.1
+  - htslib=1.17
+  - perl-module-build=0.4234
+  - augustus=3.5.0
+  - samtools=1.17
+  - bamtools=2.5.2
+  - blast=2.15.0
+  - diamond=2.1.9
+  - spaln=2.4.13
+  - perl-app-cpanminus
+  - perl-yaml
+  - perl-hash-merge
+  - perl-parallel-forkmanager
+  - perl-scalar-util-numeric
+  - perl-mce
+  - perl-threaded
+  - exonerate
+  - genomethreader
+  - cdbtools
+  - compleasm
+  - makehub
+  - tsebra
+  - biopython
+  - braker3=3.0.8
