@@ -1,4 +1,4 @@
-name: braker3_fixed
+name: braker3
 channels:
   - conda-forge
   - bioconda
